@@ -269,7 +269,11 @@ nav {
 .portfolio-item {
   width: 220px;
   height: 190px;
+  cursor: pointer;
 }
+/*.portfolio-item img {
+  border: #f06c64 solid 5px;
+}*/
 
 .portfolio-item:hover {
   opacity: 0.5;
